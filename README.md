@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Ahmet Efe Çakır. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hello there, I'm Ahmet Efe Çakır.</h1>
 <p align="center" style="text-align: center; font-size: 20px;">
 I'm Front-End Developer from Turkey.<br></p>
 <div align="center">
