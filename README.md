@@ -3,8 +3,9 @@
 I'm Front-End Developer from Turkey.<br></p>
 <div align="center">
 	<a href="https://discord.com/users/824747757385285694"><img src="https://lanyard.cnrad.dev/api/824747757385285694"></a>
+	<br><br><img src="https://komarev.com/ghpvc/?username=ahmetefecakir">
 </div>
-
+ 
 <div>
 	<h1 align="center">Contact
   </h1>
