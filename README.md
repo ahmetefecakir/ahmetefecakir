@@ -40,5 +40,5 @@ I'm 18 yeras old Front-End Developer from Turkey.<br></p>
 <br><br><br>
 </div>
  <div align="center">
- <img src="https://github.com/Tantoony/Tantoony/assets/64890076/2459dc46-da35-4c04-bc4b-5d9474a7393d"/>
+ <img src="alone.gif"/>
  </div>
