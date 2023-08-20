@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm Ahmet Efe Çakır.</h1>
 <p align="center" style="text-align: center; font-size: 20px;">
-I'm Front-End Developer from Turkey.<br></p>
+I'm 18 yeras old Front-End Developer from Turkey.<br></p>
 <div align="center">
 	<a href="https://discord.com/users/824747757385285694"><img src="https://lanyard.cnrad.dev/api/824747757385285694"></a>
 	<br><br><img src="https://komarev.com/ghpvc/?username=ahmetefecakir">
@@ -39,3 +39,6 @@ I'm Front-End Developer from Turkey.<br></p>
     <img alt="Adobe After Effects" align="center" src="https://camo.githubusercontent.com/2c97187994c91ce5a2401b2cdf2ee49c604f1002f70b2c1a02093748fbb34f39/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41646f62652532304166746572253230456666656374732d3939393946462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d41646f6265253230416674657225323045666665637473266c6f676f436f6c6f723d7768697465"/>
 <br><br><br>
 </div>
+ <div align="center">
+ <img src="https://github.com/Tantoony/Tantoony/assets/64890076/2459dc46-da35-4c04-bc4b-5d9474a7393d"/>
+ </div>
