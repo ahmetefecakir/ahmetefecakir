@@ -1,27 +1,19 @@
 <h1 align="center">Hello there, I'm Ahmet Efe Çakır.</h1>
 <p align="center" style="text-align: center; font-size: 20px;">
-I'm 18 yeras old Front-End Developer from Turkey.<br></p>
+I'm a Front-End Developer from Turkey.<br></p>
 <div align="center">
-	<a href="https://discord.com/users/824747757385285694"><img src="https://lanyard.cnrad.dev/api/824747757385285694"></a>
-	<br><br><img src="https://komarev.com/ghpvc/?username=ahmetefecakir">
-</div>
- 
-<div>
-	<h1 align="center">Contact
-  </h1>
+	<img src="https://komarev.com/ghpvc/?username=ahmetefecakir">
 </div>
 
 <div align="center">
-    <a href="mailto:aahmetefecakir@gmail.com" target="_blank"><img src="https://shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://discord.com/users/824747757385285694" target="_blank"><img src="https://shields.io/badge/Discord-111111.svg?&style=for-the-badge&logo=discord"></a>
-    <a href="https://instagram.com/ahmetefe.js" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://github.com/ahmetefecakir" target="_blank"><img src="https://shields.io/badge/GitHub-111111.svg?&style=for-the-badge&logo=github"></a>
-
+    
 <div>
 <h1 align="center">
   Using technologies
   </h1></div>
 <div align="center">
+	<a href="mailto:aahmetefecakir@gmail.com" target="_blank"><img src="https://shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+	<br><br>
     <img alt="HTML" align="center" src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=HTML5&logoColor=white"/>
     <img alt="CSS" align="center" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
     <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=for-the-badge&logo=javascript&logoColor=white"/>
